@@ -30,4 +30,4 @@
 
 ### 实现效果
 
-	.<img src="https://github.com/wxianing/VerificationCode/blob/master/image/20191008140031.jpg" width="375" height="667" />
+.<img src="https://github.com/wxianing/VerificationCode/blob/master/image/20191008140031.jpg" width="375" height="667" />
