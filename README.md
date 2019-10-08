@@ -15,6 +15,6 @@
   
   ```
   dependencies {
-	        implementation 'com.github.wxianing:VerificationCode:Tag'
+	        implementation 'com.github.wxianing:VerificationCode:1.0'
 	}
   ```
